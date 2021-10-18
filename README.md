@@ -1,6 +1,10 @@
 # FakeNewsClassifier
 
-Medium Blog :- https://saifgazali.medium.com/fake-news-classifier-using-multilayer-perceptron-model-22cd863ca710
+Medium Blog :- 
+
+https://saifgazali.medium.com/fake-news-classifier-using-multilayer-perceptron-model-22cd863ca710
+
+https://saifgazali.medium.com/fake-news-classifier-using-glove-embeddings-cnn-model-a63da8d9f823
 
 ![download (65)](https://user-images.githubusercontent.com/20074508/137736720-445cf362-171d-4143-8d4f-311a39e71d05.png)
 
